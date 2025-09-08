@@ -34,6 +34,7 @@ your/data_root/
            img/
            lab/
 ```
+### Download SAM model
 2. Download the [SAM model](https://github.com/facebookresearch/segment-anything?tab=readme-ov-file#model-checkpoints) and move the model to the "your_root/pretrained_model" directory in your project.
 
 ### Pre-processing data
